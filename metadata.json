@@ -1,0 +1,6 @@
+{
+  "name": "Passive Income & Micro-Tool Builder",
+  "description": "An automated system to brainstorm, design, and bootstrap live, monetizable micro-SaaS and set-and-forget passive income products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
